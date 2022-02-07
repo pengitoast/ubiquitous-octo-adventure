@@ -1,0 +1,12 @@
+body {
+    background-image: url(https://images3.alphacoders.com/992/thumb-1920-992947.png);
+}
+h1 {
+    text-align: right;
+    border-radius: 10%;
+    font-family: "Times New Roman", Times, serif;
+}
+p {
+    text-align: justify;
+    font-family: "Times New Roman" Times, serif;
+}
